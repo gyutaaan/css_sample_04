@@ -24,7 +24,12 @@ main{
   padding: 40px;
   height : 400px;
 }
- 
+main ul {
+  list-style-type: square;
+}
+main ol {
+  list-style-type: upper-roman;
+}
 footer   {
   padding: 40px;
   height: 40px;
